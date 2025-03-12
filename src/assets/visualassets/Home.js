@@ -26,6 +26,7 @@ import ArtAndCraftClub from "../visualcontent/ArtAndCraftClub.png";
 import Ieee from "../visualcontent/IEEE.png";
 import star from "../../assets/visualcontent/dhruvaStarMeta.png";
 import Sk from "../../assets/visualcontent/Sk.png";
+import punjabiDhaba from "../../assets/visualcontent/punjabiDhaba.jpg";
 const Home = {
   meta: star,
   PreLoader: preload,
@@ -45,6 +46,7 @@ const Home = {
 
   Sponsers: {
     Sk: Sk,
+    punjabiDhaba: punjabiDhaba,
   },
 
   Clubs: {
